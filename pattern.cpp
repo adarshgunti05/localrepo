@@ -39,6 +39,12 @@ int main(){
 
 
         }cout<<endl;
-        i=i+1;    
+        i=i+1;
+        int co=1;
+        if (co == 1){
+            cout<<"Adarsh is great..";
+        }
+
     }
+   
 }
